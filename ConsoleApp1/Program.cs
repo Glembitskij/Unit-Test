@@ -21,5 +21,10 @@ namespace ConsoleApp1
         {
             return a + b;
         }
+
+        public int Minus()
+        {
+            return 0;   
+        }
     }
 }
