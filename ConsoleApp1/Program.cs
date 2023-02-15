@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            Calculator calculator = new Calculator();
+            calculator.Sum(10, 22);
         }
     }
 
